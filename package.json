@@ -1,0 +1,15 @@
+{
+  "name": "dsa",
+  "version": "1.0.0",
+  "description": "> run the specific algorithm",
+  "main": "binarySearch.js",
+  "scripts": {
+    "dev": "npm i nodemon"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
